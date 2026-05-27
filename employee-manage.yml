@@ -2,3 +2,4 @@ spring:
   datasource:
     username: "{cipher}461f34b1b3748a7d2fd8f2993f9584b8755ed8ae5f018b3e972a173fed014794"
     password: ""
+    
